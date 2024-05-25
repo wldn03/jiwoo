@@ -12,6 +12,7 @@
 - os_notes : 각 주차에 대한 필기 (없는 필기는 저장을 안하고 메일로 보냈기 때문에 없음)
 - 나머지 파일 : 수업자료 (googole drive)
 
+## syllabus 표로 형성하기 및 각 주차에 대한 필기 파일 링크 걸기
 |각주차|링크|
 |:--:|:--:|
 |3주차|['3주차/github/w3.txt'](https://github.com/wldn03/jiwoo/blob/main/os_notes/w3.txt)|
