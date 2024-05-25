@@ -19,4 +19,4 @@
 |4주차|['4주차/github/w4.txt'](https://github.com/wldn03/jiwoo/blob/main/os_notes/w4.txt)|
 |9주차|['9주차/github/w9.txt'](https://github.com/wldn03/jiwoo/blob/main/os_notes/w9.txt)|
 |11주차|['11주차/github/w11.txt'](https://github.com/wldn03/jiwoo/blob/main/os_notes/w11.txt)|
-|12주차|['12주차/github/w12.txt'](https://github.com/wldn03/jiwoo/blob/main/os_notes/w12.txt)|
+|12주차|['12주차/github/w12.md'](https://github.com/wldn03/jiwoo/blob/main/os_notes/w12.md)|
