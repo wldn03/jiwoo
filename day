@@ -1,0 +1,18 @@
+#!/bin/bash
+
+time=5
+
+if [ $time -gt 0 ] && [ $time -lt 9 ] 
+then
+echo 굿모닝
+exit 0
+elif [ $time -gt 9 ] && [ $time -lt 17 ]
+then
+echo 굿애프터눈
+exit 0
+elif [ $time -gt 17 ] && [ $time -lt 24 ]
+then
+echo 굿이브닝
+exit 0
+fi
+
